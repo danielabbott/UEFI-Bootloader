@@ -1,0 +1,8 @@
+Dependencies
+
+gnu-efi-devel 3.0.6
+nasm 2.15.04
+clang/gcc
+
+qemu 6.0.0
+ovmf 202105
